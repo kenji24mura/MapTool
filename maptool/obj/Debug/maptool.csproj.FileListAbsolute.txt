@@ -43,3 +43,4 @@ G:\サンプルプログラム\地図メンテツール\maptool\maptool\maptool\
 G:\サンプルプログラム\地図メンテツール\maptool\maptool\maptool\obj\Debug\maptool.csproj.CoreCompileInputs.cache
 G:\サンプルプログラム\地図メンテツール\maptool\maptool\maptool\obj\Debug\maptool.exe
 G:\サンプルプログラム\地図メンテツール\maptool\maptool\maptool\obj\Debug\maptool.pdb
+G:\サンプルプログラム\地図メンテツール\maptool\maptool\maptool\obj\Debug\maptool.csproj.AssemblyReference.cache

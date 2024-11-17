@@ -52,6 +52,9 @@ namespace maptool
 
         int BaseArea = 0;
 
+        Double Init_ZX = -43380.024092448708;
+        Double Init_ZY = -145071.41296201688;
+
         Bitmap canvas;//地図描画用canvas
         Graphics g;
         Bitmap canvas2;//画面描画用canvas
@@ -319,6 +322,8 @@ namespace maptool
             ClickMode = ConstDef.Mode_Default;
 
             pictureBox1.MouseWheel += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseWheel);
+
+            DrawCanvas(Init_ZX, Init_ZY);
 
         }
 
